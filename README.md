@@ -33,7 +33,10 @@ Redis:
 
 # Execução:
 1 - Copiar os arquivos transações.json, validador.py e producer.py
+
 1 - Subir os cointaners
+
 2 - Executar o arquivo validador.py
+
 3 - Em nova janela, executar o arquivo producer.py
 
